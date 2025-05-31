@@ -9,11 +9,10 @@ A cloud-ready Employee Management System built using Java Spring Boot microservi
 
 ## 🚀 Tech Stack
 
-- Java 11
-- Spring Boot
+- Java 17
+- Spring Boot 3.0
 - Spring Cloud (Eureka, OpenFeign, Gateway)
 - REST API
 - H2 Database
-- Docker
 - Git & GitHub
 - Maven
