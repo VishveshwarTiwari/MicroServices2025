@@ -16,3 +16,15 @@ A cloud-ready Employee Management System built using Java Spring Boot microservi
 - H2 Database
 - Git & GitHub
 - Maven
+
+
+API Gateway: Routes all incoming traffic to respective microservices.
+
+Employee Service: Manages employee CRUD.
+
+Department Service: Manages department CRUD.
+
+Service Discovery (Eureka): Registers services.
+
+Feign Client: Used for internal service communication.
+
